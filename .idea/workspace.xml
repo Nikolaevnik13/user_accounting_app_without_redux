@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="929c2872-8500-4698-aa50-599dbe3208c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="929c2872-8500-4698-aa50-599dbe3208c0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,12 +100,26 @@
       <workItem from="1588706114670" duration="3237000" />
       <workItem from="1588748882038" duration="27000" />
       <workItem from="1588748911699" duration="36483000" />
-      <workItem from="1588880473078" duration="939000" />
+      <workItem from="1588880473078" duration="1481000" />
     </task>
+    <task id="LOCAL-00001" summary="first branch">
+      <created>1588882193530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588882193530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="first branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="first branch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="194" y="216" key="#ESLint" timestamp="1588688170488">
@@ -128,15 +130,19 @@
       <screen x="0" y="23" width="2048" height="1054" />
     </state>
     <state x="194" y="216" key="#Inspections/0.23.2048.1054@0.23.2048.1054" timestamp="1588688237561" />
+    <state x="387" y="217" key="#Notifications" timestamp="1588882668938">
+      <screen x="0" y="23" width="2048" height="1057" />
+    </state>
+    <state x="387" y="217" key="#Notifications/0.23.2048.1057@0.23.2048.1057" timestamp="1588882668938" />
     <state x="362" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588748984145">
       <screen x="0" y="23" width="2048" height="1054" />
     </state>
     <state x="362" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2048.1054@0.23.2048.1054" timestamp="1588748984145" />
     <state x="362" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2048.1056@0.23.2048.1056" timestamp="1588524490123" />
-    <state x="311" y="154" key="CommitChangelistDialog2" timestamp="1588882016844">
+    <state x="691" y="158" key="CommitChangelistDialog2" timestamp="1588882728082">
       <screen x="0" y="23" width="2048" height="1057" />
     </state>
-    <state x="311" y="154" key="CommitChangelistDialog2/0.23.2048.1057@0.23.2048.1057" timestamp="1588882016844" />
+    <state x="691" y="158" key="CommitChangelistDialog2/0.23.2048.1057@0.23.2048.1057" timestamp="1588882728082" />
     <state width="1181" height="161" key="GridCell.Tab.0.bottom" timestamp="1588845518768">
       <screen x="0" y="23" width="2048" height="1054" />
     </state>
@@ -165,6 +171,10 @@
       <screen x="0" y="23" width="2048" height="1057" />
     </state>
     <state x="82" y="147" key="SettingsEditor/0.23.2048.1057@0.23.2048.1057" timestamp="1588882027387" />
+    <state x="387" y="280" key="Vcs.Push.Dialog.v2" timestamp="1588882628066">
+      <screen x="0" y="23" width="2048" height="1057" />
+    </state>
+    <state x="387" y="280" key="Vcs.Push.Dialog.v2/0.23.2048.1057@0.23.2048.1057" timestamp="1588882628066" />
     <state x="336" y="23" width="787" height="1055" key="dock-window-1" timestamp="1588786329786">
       <screen x="0" y="23" width="2048" height="1056" />
     </state>
